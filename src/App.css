@@ -1,0 +1,13 @@
+.name,.bio,.prof{
+    color: rgba(158, 113, 28, 0.705);
+    display: flex;
+    justify-content: center;
+}
+.img{
+    width: 200px;
+    border-radius: 60px;
+}
+.person{
+    display: flex;
+    justify-content: space-evenly;
+}
